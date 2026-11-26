@@ -31,4 +31,4 @@ This is a GUI-based Password Generator project that I developed using Python and
 
 # Author:
 
-Created by Vivek Yadav GitHub: "@vivekyx"
+Created by Vivek Yadav
